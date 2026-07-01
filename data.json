@@ -1,0 +1,10 @@
+{
+    "name":"Ahmet",
+    "age":26,
+    "city":"Ankara",
+    "hobbies":[
+        "history",
+        "pc games",
+        "anime"
+    ]
+}
